@@ -39,3 +39,12 @@
 38. Signal - https://signal.org/
 39. Matrix - https://matrix.org/ https://github.com/matrix-org
 40. Jami - https://jami.net/
+41. Big Blue Button - https://bigbluebutton.org/
+42. Ripcord
+43. Twake
+44. Mirotalk - https://github.com/miroslavpejic85/mirotalk 
+45. Dino
+46. Infomaniak kMeet
+47. Flock
+48. Whaller
+49. Teams Clone - https://github.com/aditiagrawal27/teams-clone
