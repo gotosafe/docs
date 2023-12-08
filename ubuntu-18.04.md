@@ -17,8 +17,7 @@ sudo rm -rf /etc/cloud/ && sudo rm -rf /var/lib/cloud/
 sudo reboot
 ```
 
-# If error: aufs aufs_fill_super:918mount[6090]: no arg
-overlayfs: missing 'lowerdir'
+# If error: aufs aufs_fill_super:918mount[6090]: no arg overlayfs: missing 'lowerdir'
 ```
 sudo apt-get remove snapd
 ```
