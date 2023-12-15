@@ -10,6 +10,12 @@ MikeCRM (麦客) - https://de.mikecrm.com/legacy/indexContact.php - MikeCRM Co.,
 
 Dodoca (点点客) - http://www.dodoca.com/ - Diandianke Information Technology Co., Ltd
 
+Tencent Qidian Software - Tencent Inc. https://qidian.qq.com/
+
+------
+
+
+
 ZenCRM Business Line - Sales Edition - INTERZEN CONSULTING SRL sales@interzen.it
 
 ERP - https://intl.yonyou.com/solutions/erp/
