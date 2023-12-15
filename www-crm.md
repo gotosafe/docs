@@ -13,3 +13,4 @@ https://sc-silver.net/
 -------------
 https://azuremarketplace.microsoft.com/en-us/marketplace/apps
 
+https://azuremarketplace.microsoft.com/en-us/marketplace/apps?page=1&search=CRM
