@@ -1,3 +1,4 @@
+```
 git config --global user.name "Full Name"
 git config --global user.email "email@domain.com"
 git config --global diff.astextplain.textconv astestplain
@@ -16,3 +17,4 @@ File .gitconfig
 
 Credentials:
 git:https://domain.com
+```
